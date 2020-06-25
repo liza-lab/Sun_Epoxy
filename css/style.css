@@ -1,0 +1,58 @@
+/* Header */
+header, footer {
+  background: url("../img/fon.jpg") ;
+  background-size: cover;
+}
+.navbar-brand {
+ font-size: 18px;
+ font-weight: 600;
+
+}
+.nav-link, .dropdown-item {
+ font-size: 15px;
+ font-weight: 600;
+ text-transform: uppercase;
+
+}
+nav li {
+ padding: 0 18px;
+
+}
+nav li.active, nav li.active:before {
+ background-color: rgb(54, 141, 244);
+ border-radius: 5px;
+}
+.carousel a:hover {
+ background:rgb(124, 186, 217);
+}
+h3 {
+  font-family: 'Lobster', cursive;
+  color: white;
+
+}
+p {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+}
+a {
+  font-family: 'Balsamiq Sans', cursive;
+}
+.custom-6 {
+  background: url("../img/meseg.png") no-repeat;
+}
+.custom-2 {
+    background: url("../img/fon404.jpg") no-repeat;
+    background-size: cover;
+}
+h5, h2, .custom-1 {
+  color: white;
+}
+body {
+  background: url("../img/fon404.jpg") no-repeat;
+  background-size: cover;
+}
+.custom-7, .custom-8, .custom-9, .custom-10 {
+  background: url("../img/fon404.jpg") no-repeat;
+  background-size: cover;
+
+}
